@@ -1,0 +1,12 @@
+C:\Users\JP\source\repos\JPsApplication\bin\Debug\JPsApplication.exe.config
+C:\Users\JP\source\repos\JPsApplication\bin\Debug\JPsApplication.exe
+C:\Users\JP\source\repos\JPsApplication\bin\Debug\JPsApplication.pdb
+C:\Users\JP\source\repos\JPsApplication\bin\Debug\JPsApplication.xml
+C:\Users\JP\source\repos\JPsApplication\obj\Debug\JPsApplication.vbproj.AssemblyReference.cache
+C:\Users\JP\source\repos\JPsApplication\obj\Debug\JPsApplication.Form1.resources
+C:\Users\JP\source\repos\JPsApplication\obj\Debug\JPsApplication.Resources.resources
+C:\Users\JP\source\repos\JPsApplication\obj\Debug\JPsApplication.vbproj.GenerateResource.cache
+C:\Users\JP\source\repos\JPsApplication\obj\Debug\JPsApplication.vbproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\JPsApplication\obj\Debug\JPsApplication.exe
+C:\Users\JP\source\repos\JPsApplication\obj\Debug\JPsApplication.xml
+C:\Users\JP\source\repos\JPsApplication\obj\Debug\JPsApplication.pdb
